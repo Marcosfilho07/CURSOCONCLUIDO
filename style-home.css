@@ -13,13 +13,13 @@ header{
 }
 .caixa{
     position: relative;
-    width: 840px;
+    width: 940px;
     margin: 0 auto;
 }
 
 nav {
     position: absolute;
-    top: 110px;
+    top: 1100px;
     right: 0;
 }
 
