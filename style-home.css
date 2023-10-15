@@ -2,11 +2,12 @@
     width: 100%;
     height: 500px;
 }
-
+title{
+    font-size: center;
+}
 .principal{
 	background: #CCCCCC;
 	padding: 30px;
-	font-size: center;
 }
 header{
     background: #BBBBBB ;
