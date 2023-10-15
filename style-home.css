@@ -6,6 +6,7 @@
 .principal{
 	background: #CCCCCC;
 	padding: 30px;
+	font-size: center;
 }
 header{
     background: #BBBBBB ;
@@ -30,7 +31,7 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: #FFFFFF; 
+    color: #000000; 
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
