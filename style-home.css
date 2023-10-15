@@ -17,9 +17,15 @@ header{
     margin: 0 auto;
 }
 
+nav ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
 nav {
     position: absolute;
-    top: 1100px;
+    top: 110px;
     right: 0;
 }
 
