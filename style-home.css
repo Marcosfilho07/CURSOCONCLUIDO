@@ -11,18 +11,13 @@ header{
     background: #BBBBBB ;
     padding: 20px 0;
 }
+
 .caixa{
     position: relative;
     width: 940px;
     margin: 0 auto;
 }
 
-nav ul {
-	display: inline-block;
-	vertical-align: top;
-	width: 20%;
-	margin-right: 15%;
-}
 nav {
     position: absolute;
     top: 110px;
@@ -46,7 +41,6 @@ nav a:hover{
     color: #C78C19;
     text-decoration: underline;
 }
-
 .titulo-principal {
 	padding-left: 20px;
 }
